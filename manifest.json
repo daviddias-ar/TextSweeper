@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "Text Sweeper",
+  "version": "1.0",
+  "description": "Cleans formatted text.",
+  "icons": {
+    "24": "icons/icon24.png",
+    "48": "icons/icon48.png"
+  },
+  "permissions": [
+    "storage",
+    "clipboardRead",
+    "clipboardWrite"
+  ],
+  "browser_action": {
+    "default_icon": "icons/icon.png",
+    "default_title": "Text Sweeper",
+    "default_popup": "popup/textSweeper.html"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "textsweeper@daviddias"
+    }
+  }
+}
