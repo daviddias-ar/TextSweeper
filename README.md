@@ -2,4 +2,4 @@
 
 Cleans formatted text.
 
-https://addons.mozilla.org/pt-PT/firefox/addon/text-sweeper/
+https://addons.mozilla.org/en-US/firefox/addon/text-sweeper/
